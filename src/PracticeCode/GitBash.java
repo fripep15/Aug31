@@ -7,6 +7,7 @@ public class GitBash {
 		System.out.println(" commit ");
 		int ka=55;
 		System.out.println(" Khubaib branch ");
+		String str="work from home";
 
 	}
 
